@@ -15,7 +15,8 @@ A market regime assumes the market operates in a finite number of distinct behav
 Key references:
 - Quandt (1958), Goldfeld & Quandt (1973) – Econometric foundations of regime switching.
 - Borisov (2024) – ML techniques for distinguishing market regimes.
-🛠️ Project Workflow
+## 🛠️ Project Workflow
+```text
  ┌──────────────────┐
  │ 1. Data           │
  │ Preparation       │
@@ -52,6 +53,7 @@ Key references:
  │ 6. Strategy       │
  │ Selector Algorithm│
  └──────────────────┘
+
 📑 Step-by-Step Breakdown
 1. 📁 Data Preparation
 - Historical stock price data from S&P 500 (2018–2020, including edges).
