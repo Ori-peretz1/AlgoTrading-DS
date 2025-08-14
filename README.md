@@ -53,7 +53,7 @@ Key references:
  │ 6. Strategy       │
  │ Selector Algorithm│
  └──────────────────┘
-
+```
 📑 Step-by-Step Breakdown
 1. 📁 Data Preparation
 - Historical stock price data from S&P 500 (2018–2020, including edges).
